@@ -181,7 +181,7 @@ public interface POIService {
 
 Para calcular a distância entre dois pontos no plano cartesiano, foi utilizada a fórmula da distância euclidiana:
 
-\[ \text{distância} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \]
+distância = √((x₂ - x₁)² + (y₂ - y₁)²)
 
 Neste projeto, a função `calculateDistance` implementa essa fórmula para encontrar todos os POIs dentro de um raio especificado a partir de um ponto de referência.
 
